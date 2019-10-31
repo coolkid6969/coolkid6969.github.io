@@ -1,0 +1,45 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+@import url('https://fonts.googleapis.com/css?family=Poiret+One');
+
+body {
+  background: linear-gradient(black, #ff0000);
+  font-family: "Poiret One", sans-serif;
+  padding: 5px 25px;
+  font-size: 14px;
+  margin: 0;
+  color: #444;
+}
+
+h1 {
+  font-family: "Quicksand", serif;
+  font-size: 50px;
+  color: white;
+}
+
+h3 {
+  text-align: center;
+  color: white;
+}
+
+.imgpadding {
+  padding: 5px;
+  background-color: #ffffff;
+  border: #9800ff solid 10px;
+}
+
+.img2 {
+  padding: 20px;
+  background-color: black;
+}
+
+.img3 {
+  padding: 20px;
+  background-color: black;
+}
+
+.imgsmallness {
+  width: 500px;
+  height: 250px;
+}
